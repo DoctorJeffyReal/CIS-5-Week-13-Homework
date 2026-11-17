@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Practice 13 · Part 1 — Your Name
+// Practice 13 · Part 1 — Jesus
 // CIS 5 Week 13 · Word tools
 
 std::string banner(const std::string& name) {
