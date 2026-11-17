@@ -14,6 +14,22 @@ The video is half the grade. Run both programs, then explain why each helper tak
 
 **Your demo:** _add your link here_
 
+## Part 1 sample run
+
+```text
+First: Sam
+Last: Lee
+Hello, Sam Lee!
+Length: 7
+Initials: SL
+```
+
+## Final project proposal
+
+**Track:** Mini Bank  
+**Struct:** `Account { name, balance }`  
+**Features:** list accounts, deposit money, withdraw money with a balance check
+
 ## What to build
 
 Two small programs.
